@@ -2,7 +2,6 @@ import React from "react";
 
 const FormBody = (props) => {
   const { handleChange, handleSubmit, value, buttonType } = props
-  console.log(value)
   return (
     <form>
       <div>
